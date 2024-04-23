@@ -5,6 +5,7 @@ The Skin Cancer Detection App is a machine learning project aimed at assisting u
 <div style="text-align:center">
     <img src="https://github.com/S-Chaudhuri/Skin_cancer_app/blob/main/Screenshot%202024-04-23%20093210.jpg" alt="Skin Cancer Image">
 </div>
+
 ## Technologies Used
 - **Computer Vision (CV):** Utilized for image preprocessing, feature extraction, and segmentation.
 - **EfficientNet B7:** A state-of-the-art CNN architecture known for its efficiency and accuracy in image classification tasks.
