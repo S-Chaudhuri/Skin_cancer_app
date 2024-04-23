@@ -31,7 +31,7 @@ The Skin Cancer Detection App is a machine learning project aimed at assisting u
 5. **Further Actions:** Based on the prediction, users can take appropriate actions such as consulting a dermatologist for further evaluation.
 
 ## Future Enhancements
-1. **Multi-Class Classification:** Extend the model to classify skin lesions into different types of skin cancer.
+1. **Server Deployment:** Deploy in a major server for worldwide use.
 2. **Mobile Application:** Develop a mobile version of the app for convenient access on smartphones.
 3. **Integration with Dermatologist Tools:** Integrate the app with dermatologist tools for collaborative diagnosis and treatment planning.
 4. **Continuous Learning:** Implement mechanisms for the model to continuously learn from new data and improve its accuracy over time.
